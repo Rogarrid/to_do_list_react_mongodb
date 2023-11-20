@@ -6,7 +6,6 @@ const path = require('path');
 const app = express();
 app.use(express.json());
 
-
 mongoose.connect('mongodb://localhost:27017/to-do-reactjs');
 
 // Definir el esquema de datos para los elementos de la lista de tareas y crea el modelo 'Item' basado en el esquema definido anteriormente
