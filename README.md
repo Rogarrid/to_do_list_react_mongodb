@@ -8,10 +8,8 @@ Steps to start the project:
 
 4. Enter the project folder cd to_do_list_react_mongodb
 
-5. Go to frontend: npm install
+5. Go to frontend: npm install and npm run build
 
-6. Exit frontend, enter backend: npm install
-
-7. In the terminal where backend is, start project: node server.js
+6. Exit frontend, enter backend: npm install and node server.js
 
 8. Open browser and enter http://localhost:3000/
