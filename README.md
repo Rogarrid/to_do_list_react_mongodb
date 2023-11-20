@@ -10,6 +10,10 @@ Steps to start the project:
 
 5. Go to frontend: npm install and npm run build
 
-6. Exit frontend, enter backend: npm install and node server.js
+6. Exit frontend, enter backend: npm install
+  
+7. You need to use node version 18.14.2.
+  
+8. node server.js
 
-8. Open browser and enter http://localhost:3000/
+9. Open browser and enter http://localhost:3000/
